@@ -1,9 +1,4 @@
-<%-- 
-    Document   : ShowVCN
-    Created on : Nov 14, 2018, 12:23:59 PM
-    Author     : rabiul
---%>
-
+     
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
